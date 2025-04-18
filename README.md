@@ -406,3 +406,12 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [点击进入机场](https://uhuio.top/)
 
 - 更新时间: 2025-04-18 18:40:03
+## 分享免费vpn
+
+如果你觉得浏览做饭教程卡顿的话，建议你使用vpn加速
+
+- [freevpn](https://github.com/asdsadsddas123/freevpn)
+
+- [点击进入机场](https://uhuio.top/)
+
+- 更新时间: 2025-04-18 18:45:36
