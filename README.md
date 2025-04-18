@@ -13,6 +13,10 @@
 
 同样，我希望它是一个由社区驱动和维护的开源项目，使更多人能够一起做一个有趣的仓库。所以非常欢迎大家贡献它~
 
+## 分享免费vpn
+如果你觉得浏览做饭教程卡顿的话，建议你使用vpn加速
+- [freevpn](https://github.com/asdsadsddas123/freevpn) 
+- [点击进入机场](https://uhuio.top/) 
 ## 本地部署
 
 如果需要在本地部署菜谱 Web 服务，可以在安装 Docker 后运行下面命令：
@@ -388,13 +392,4 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [辅料技巧](tips/advanced/辅料技巧.md)
 - [高级专业术语](tips/advanced/高级专业术语.md)
 - [油温判断技巧](tips/advanced/油温判断技巧.md)
-
-## 分享免费vpn
-
-如果你觉得浏览做饭教程卡顿的话，建议你使用vpn加速
-
-- [freevpn](https://github.com/asdsadsddas123/freevpn)
-
-- [点击进入机场](https://uhuio.top/)
-
-- 更新时间: 2025-04-18 18:56:24
+- 更新时间: 2025-04-18 19:35:49
