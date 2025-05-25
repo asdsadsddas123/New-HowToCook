@@ -392,4 +392,4 @@ docker run -d -p 5000:5000 ghcr.io/anduin2017/how-to-cook:latest
 - [辅料技巧](tips/advanced/辅料技巧.md)
 - [高级专业术语](tips/advanced/高级专业术语.md)
 - [油温判断技巧](tips/advanced/油温判断技巧.md)
-- 更新时间: 2025-05-25 02:10:00
+- 更新时间: 2025-05-25 02:20:00
